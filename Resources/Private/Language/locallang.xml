@@ -23,6 +23,24 @@
 			<label index="notUsedConventions"> Not used conventions are %s</label>
 			<label index="be_users.tx_besecurepw_lastpwchange">Last password change</label>
 		</languageKey>
+		<languageKey index="fr" type="array">
+			<label index="beSecurePw.header">Propriétés du mot de passe</label>
+			<label index="beSecurePw.description">Voici les paramètres à respecter pour définir un nouveau mot de passe:&lt;br /&gt;
+- Le mot de passe doit être au minimum de &lt;b&gt;%s&lt;/b&gt; caractères&lt;br /&gt;
+- Les validations à respecter sont : &lt;b&gt;%s&lt;/b&gt;&lt;br /&gt;
+- Le nombre de validations à respecter dans le mot de passe : &lt;b&gt;%s&lt;/b&gt;&lt;br /&gt;
+			</label>
+			<label index="lowercaseChar">lettre minuscule</label>
+			<label index="capitalChar">lettre majuscule</label>
+			<label index="digit">numéro</label>
+			<label index="specialChar">caractère spécial</label>
+			<label index="shortPassword">Tentative de modification de mot de passe. Le mot de passe est trop court, il doit être d'au moins %s caractères.</label>
+			<label index="passwordConvention">Tentative de modification de mot de passe. %s propriété du mot de passe a été omise!!</label>
+			<label index="passwordConventions">Tentative de modification de mot de passe. %s propriétés du mot de passe ont été omises!</label>
+			<label index="notUsedConvention"> La propriété non respectée est %s</label>
+			<label index="notUsedConventions"> Les propriétés non respectées sont  %s</label>
+			<label index="be_users.tx_besecurepw_lastpwchange">Dernière modification de mot de passe</label>
+		</languageKey>
 		<languageKey index="de" type="array">
 			<label index="beSecurePw.header">Einstellungen für das Passwort</label>
 			<label index="beSecurePw.description">Es gibt folgende Vorgaben für das Passwort:&lt;br /&gt;
